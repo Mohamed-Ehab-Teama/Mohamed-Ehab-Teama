@@ -27,11 +27,6 @@ Check out my GitHub for a glimpse of my projects. Let's build something amazing 
 </p>
 
 
-## 🔥 GitHub Stats
--   ###  ![Profile Views](https://komarev.com/ghpvc/?username=Mohamed-Ehab-Teama&label=Profile%20views&color=0A66C2&style=flat-square)
- -  <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Ehab-Teama" alt="GitHub Streak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Ehab-Teama&layout=compact" alt="Top Languages">
 </div>
 
 Remember that: " زكاة المال بعض المال ، بينما زكاة العلم كل العلم "
