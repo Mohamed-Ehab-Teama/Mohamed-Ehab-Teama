@@ -31,7 +31,7 @@ Greetings! I'm Mohamed Ehab Teama, a junior PHP Back-end developer and coding In
 
 ## ⏰ CodeTime Dashboard
 
-[![Wakatime](https://wakatime.com/badge/user/018c9017-daf8-45c1-be71-8b16fd238022.svg)](https://wakatime.com/@Mohamed_Ehab_Teama)
+[![Wakatime](https://wakatime.com/badge/user/018e5688-b95a-4101-a7a5-8a9ef98e2b90.svg)](https://wakatime.com/@Mohamed_Ehab_Teama)
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24927%26project%3D%26in=0)](https://codetime.dev)
 
 ## 📊 Github Status
