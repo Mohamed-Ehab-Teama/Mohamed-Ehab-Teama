@@ -1,6 +1,6 @@
 # Hi there, I'm Mohamed Ehab Teama! 👨‍💻
 
-Greetings! I'm Mohamed Ehab Teama, a junior PHP Back-end developer and coding Instructor, and also have interest in leraning more and more.
+Greetings! I'm Mohamed Ehab Teama, a junior PHP Back-end developer and coding Instructor.
 
 ---
 
@@ -28,6 +28,11 @@ Greetings! I'm Mohamed Ehab Teama, a junior PHP Back-end developer and coding In
 ![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark&borderRadius=20)
 ![Git](https://skillicons.dev/icons?i=git&theme=dark&borderRadius=20)
 ![GitHub](https://skillicons.dev/icons?i=github&theme=dark&borderRadius=20)
+![windows](https://skillicons.dev/icons?i=windows&theme=dark&borderRadius=20)
+![Discord](https://skillicons.dev/icons?i=discord&theme=dark&borderRadius=20)
+![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark&borderRadius=20)
+![Linked in](https://skillicons.dev/icons?i=linkedin&theme=dark&borderRadius=20)
+![twitter](https://skillicons.dev/icons?i=twitter&theme=dark&borderRadius=20)
 
 ## ⏰ WakaTime Dashboard
 
