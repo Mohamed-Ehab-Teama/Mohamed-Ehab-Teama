@@ -1,6 +1,7 @@
-# Hi there, I'm Mohamed Ehab Teama! 👨‍💻
+# Greetings, It's Mohamed Ehab Teama! 👨‍💻
 
-Greetings! I'm Mohamed Ehab Teama, a junior PHP Back-end developer and coding Instructor.
+Junior PHP Back-end developer. 
+Programming Instructor.
 
 ---
 
