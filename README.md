@@ -49,6 +49,6 @@ Programming Instructor.
 
 ![github-profile-trophy](https://github-profile-trophy.vercel.app/?theme=nord&username=Mohamed-Ehab-Teama&title=Repositories,Commits,PullRequest&column=-1)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mohamed-Ehab-Teama&border_radius=7.5&theme=nord)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mohamed-Ehab-Teama&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Ehab-Teama&show_icons=true&theme=nord&rank_icon=percentile)
