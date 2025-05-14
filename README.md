@@ -26,6 +26,7 @@ Programming Instructor.
 ## 🛠️ Tools
 
 ![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark&borderRadius=20)
+![PostMan](https://skillicons.dev/icons?i=postman&theme=dark&borderRadius=20)
 ![Git](https://skillicons.dev/icons?i=git&theme=dark&borderRadius=20)
 ![GitHub](https://skillicons.dev/icons?i=github&theme=dark&borderRadius=20)
 ![windows](https://skillicons.dev/icons?i=windows&theme=dark&borderRadius=20)
