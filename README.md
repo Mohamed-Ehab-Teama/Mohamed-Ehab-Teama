@@ -1,9 +1,12 @@
 # Greetings, It's Mohamed Ehab Teama! 👨‍💻
 
-Junior PHP Back-end developer. 
-Programming Instructor.
+
+- #### Junior PHP-Laravel Backend developer.
+- #### Front-end Developer.
+- #### Programming Instructor @ DISCOVERY AST.
 
 ---
+
 
 ## 🌐 Connect with Me
 
