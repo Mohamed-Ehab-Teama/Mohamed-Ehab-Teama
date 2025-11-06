@@ -3,7 +3,7 @@
 
 - #### Junior PHP-Laravel Backend developer.
 - #### Front-end Developer.
-- #### Programming Instructor @ DISCOVERY AST.
+- #### Back-end Developer @ ROAYA PAY.
 
 ---
 
